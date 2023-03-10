@@ -35,7 +35,7 @@ Ex: `15` would print `'FIZZBUZZ'`, `33` would print `'FIZZ'`, and `35` would pri
 
 For exercise 3, repeat both exercise 1 and 2 as `while` and `do/while` loop solutions.
 
-## Exercise 4: Find Value
+## Exercise 4: Find Value 
 
 In this exercise, you will count from iterate from 1 to n. If you iterate over a given value, then break out the loop and print "Found value!". If you do not find the value in the given range, print "Did not find value".
 
